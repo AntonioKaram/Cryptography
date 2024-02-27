@@ -10,3 +10,4 @@ Date: February 27, 2024
 
 Usage:
 Ensure that Python is installed on your system. Run the script and provide the ciphertext and key as input when prompted. The script will output the encrypted or decrypted result in binary, hexadecimal, and ASCII formats.
+File can be loaded as PY or IPYNB
